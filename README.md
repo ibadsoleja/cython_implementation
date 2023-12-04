@@ -1,4 +1,4 @@
-**Dynamic String Analysis Toolkit 🧬
+Dynamic String Analysis Toolkit 🧬
 Explore the Depths of Text Processing with Cutting-Edge Algorithms 🚀
 
 Welcome to the Dynamic String Analysis Toolkit, where advanced string manipulation isn't just a feature—it's an art 🎨. This project delves deep into the realm of textual data, offering robust and efficient tools to handle complex string processing tasks. Key features include:
