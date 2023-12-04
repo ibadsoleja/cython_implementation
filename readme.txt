@@ -1,14 +1,14 @@
-##Dynamic String Analysis Toolkit
+###Dynamic String Analysis Toolkit
 
 
-##Explore the Depths of Text Processing with Cutting-Edge Algorithms
+###Explore the Depths of Text Processing with Cutting-Edge Algorithms
 
 
 Welcome to the Dynamic String Analysis Toolkit, where advanced string manipulation isn't just a feature—it's an art. This project delves deep into the realm of textual data, offering robust and efficient tools to handle complex string processing tasks. Key features include:
 
 
 
-##Weighted Levenshtein Distance Calculation:
+###Weighted Levenshtein Distance Calculation:
 
 
 Discover the nuanced differences between texts with our custom implementation. This tool goes beyond standard Levenshtein distance by considering dynamic character positions, offering a more refined and context-aware analysis.
